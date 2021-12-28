@@ -15,7 +15,7 @@ Right now I'm slack off. I didn't do anything,So there's nothing here.
 
 ## 📮 Contact me
 
-- Send me an issue ?
+- Send me an issues ?
 
 <img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
 
