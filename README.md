@@ -13,7 +13,7 @@ Right now I'm slack off. I didn't do anything,So there's nothing here.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakuracio&layout=compact" />
 
-## 📮 How to reach me 
+## 📮 Contact me
 
 - Send me an issue ?
 
