@@ -17,8 +17,6 @@ Right now I'm slack off. I didn't do anything,So there's nothing here.
 
 - Send me an issues ?
 
-<img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
-
 ## Magic Number 
 
 ![Visited By](https://count.getloli.com/get/@Sakuracio?theme=moebooru)
@@ -26,3 +24,5 @@ Right now I'm slack off. I didn't do anything,So there's nothing here.
 ## My Project
 
 In the following.
+
+<img align=right src='https://github.githubassets.com/images/mona-whisper.gif' />
